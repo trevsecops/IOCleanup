@@ -2,8 +2,8 @@ import json
 from tenable.io import TenableIO
 
 # INSERT YOUR KEYS HERE
-TIO_ACCESS_KEY = "PASTE_ACCESS_KEY_HERE"
-TIO_SECRET_KEY = "PASTE_SECRET_KEY_HERE"
+TIO_ACCESS_KEY = "61d28279e786d7beadb01891a5665037ea6eebeb5ec3b29250d2295078b86bbc"
+TIO_SECRET_KEY = "0add369bf2193e7b7464b9da461e960737c0c3c0ddb982c33d28a36e4424210d"
 TIO_URL = "https://cloud.tenable.com"  # change only if needed
 
 OUTFILE = "tenable_agents.ndjson"  # newline-delimited JSON (1 agent per line)
